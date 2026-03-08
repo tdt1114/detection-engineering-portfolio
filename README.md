@@ -251,7 +251,7 @@ October 2025      → CompTIA A+ Core 1
 November 11, 2025     → CompTIA A+ Core 2
 December 5, 2024  → ISC2 CC
 December 19, 2024 → CompTIA Security+
-November 2025 -March 2026 → Built 8 detection engineering labs
+November 2025 - March 2026 → Built 8 detection engineering labs
 March 2026        → Current: Pursuing SC-200, applying for Detection Engineer roles
 ```
 
