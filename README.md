@@ -289,7 +289,11 @@ I'm seeking opportunities to:
 detection-engineering-portfolio/
 ├── README.md                    # This file - portfolio overview
 └── certifications/
-    └── README.md               # Detailed cert study paths (coming soon)
+    ├── README.md               # Certification overview and study resources
+    ├── comptia-a-plus.md       # CompTIA A+ study guide
+    ├── isc2-cc.md              # ISC2 CC study guide
+    ├── security-plus.md        # CompTIA Security+ study guide
+    └── sc-200.md               # SC-200 study guide (in progress)
 ```
 
 ---
