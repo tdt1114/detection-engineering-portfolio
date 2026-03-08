@@ -13,7 +13,7 @@ This folder documents my certification journey and provides study resources for 
 ---
 
 ### [ISC2 Certified in Cybersecurity (CC)](./isc2-cc.md)
-**Earned:** December 9, 2025  
+**Earned:** December 5, 2025  
 **Focus:** Security principles, governance, risk management, access control
 
 ---
