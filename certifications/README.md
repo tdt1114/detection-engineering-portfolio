@@ -20,7 +20,7 @@ This folder documents my certification journey and provides study resources for 
 
 ### [CompTIA Security+](./security-plus.md)
 **Earned:** December 19, 2025  
-**Focus:** Threats, attacks, vulnerabilities, security architecture, incident response
+**Focus:** Threats, attacks, vulnerabilities, security archi no tecture, incident response
 
 ---
 
@@ -40,7 +40,7 @@ Each certification required:
 - Real-world application of concepts in detection engineering labs
 - Multiple study resources (official materials + community guides + practice exams)
 
-**Timeline:** 4 certifications in 6 months (September 2025 - March 2026)
+**Timeline:** 3 certifications in 6 months (September 2025 - March 2026)
 
 ---
 
