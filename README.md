@@ -20,7 +20,7 @@ I transitioned into cybersecurity with a clear goal: become a Detection Engineer
 - **September 2025:** Started from zero cybersecurity background
 - **October-December 2025:** Earned CompTIA A+, ISC2 CC, and CompTIA Security+ certifications
 - **Nov 2025 -March 2026:** Built 8+ detection engineering labs spanning multiple platforms and detection languages
-- **Current:** Pursuing SC-200 (Microsoft Security Operations Analyst) certification
+- **Current:** SANS Cyber Academy - Cohort Starting April 2026
 
 ### What Makes This Portfolio Different
 
@@ -176,13 +176,6 @@ Each project builds on the previous one, demonstrating systematic skill progress
 **Skills:** Active Directory, Azure infrastructure, identity management, Group Policy, PowerShell automation, delegated administration
 
 ---
-
-#### DMARC Email Security Analysis
-**Email authentication protocol analysis for phishing prevention**
-
-*Repository link coming soon*
-
----
 ## Technical Skills
 
 ### SIEM & Security Platforms
@@ -229,9 +222,13 @@ Each project builds on the previous one, demonstrating systematic skill progress
 | **CompTIA Security+** | December 2025 | Threats, attacks, vulnerabilities, security architecture |
 
 ### In Progress
+SANS Cyber Academy — Cohort 2026
+Starting April
 
-**SC-200: Microsoft Security Operations Analyst**  
-*Target completion: Q2 2026*
+SEC275: Foundations (GFACT)
+SEC401: Security Essentials (GSEC)
+SEC504: Hacker Tools, Techniques & Incident Handling (GCIH)
+
 
 Focus areas:
 - Mitigate threats using Microsoft Sentinel
@@ -249,10 +246,10 @@ Focus areas:
 September 2025    → Started from zero cybersecurity background
 October 2025      → CompTIA A+ Core 1
 November 11, 2025     → CompTIA A+ Core 2
-December 5, 2024  → ISC2 CC
-December 19, 2024 → CompTIA Security+
+December 5, 2025  → ISC2 CC
+December 19, 2025 → CompTIA Security+
 November 2025 - March 2026 → Built 8 detection engineering labs
-March 2026        → Current: Pursuing SC-200, applying for Detection Engineer roles
+March 2026        → Current:SANS Cyber Academy — Cohort Starting April 2026
 ```
 
 **What This Demonstrates:**  
@@ -279,7 +276,7 @@ I'm seeking opportunities to:
 - Continue learning emerging detection techniques and threat actor TTPs
 
 **Open to:** Full-time Detection Engineer, Security Engineer, or SOC Analyst II roles  
-**Location:** Remote or hybrid opportunities  
+**Location:** Remote or opportunities near Charlotte, NC
 **Current Status:** Actively interviewing
 
 ---
@@ -293,7 +290,7 @@ detection-engineering-portfolio/
     ├── comptia-a-plus.md       # CompTIA A+ study guide
     ├── isc2-cc.md              # ISC2 CC study guide
     ├── security-plus.md        # CompTIA Security+ study guide
-    └── sc-200.md               # SC-200 study guide (in progress)
+    └── sans-cyber-academy.md   (in progress)
 ```
 
 ---
